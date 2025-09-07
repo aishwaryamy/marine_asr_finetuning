@@ -106,7 +106,7 @@ Enable T4 GPU: Runtime → Change runtime type → GPU → T4 GPU → Save
 Local Setup
 
 Clone the Repository:
-git clone https://github.com/yourusername/marine_asr_finetuning.git
+git clone https://github.com/aishwaryamy/marine_asr_finetuning.git
 cd marine_asr_finetuning
 git lfs pull
 
@@ -136,7 +136,7 @@ If not, skip it.
 Update Hugging Face Model ID:
 
 Edit fine_tune_wav2vec2_marine.py and demo_inference.py to replace yourusername with your Hugging Face username:sed -i '' 's/yourusername/your_actual_username/' fine_tune_wav2vec2_marine.py
-sed -i '' 's/yourusername/your_actual_username/' demo_inference.py
+sed -i '' 's/aishwaryamy/your_actual_username/' demo_inference.py
 
 
 
@@ -146,7 +146,7 @@ PYTORCH_ENABLE_MPS_FALLBACK=1 python3 fine_tune_wav2vec2_marine.py
 
 
 Training Time: ~30-50 minutes for 3 files; ~5-10 minutes per additional file.
-Output: WER (~20-40%), sample transcription, model uploaded to https://huggingface.co/yourusername/wav2vec2-marine-asr.
+Output: WER (~20-40%), sample transcription, model uploaded to https://huggingface.co/aishwaryamy/wav2vec2-marine-asr.
 
 
 Test the Model:
@@ -170,7 +170,7 @@ Verify:!nvidia-smi
 
 
 Clone the Repository:
-!git clone https://github.com/yourusername/marine_asr_finetuning.git
+!git clone https://github.com/aishwaryamy/marine_asr_finetuning.git
 %cd marine_asr_finetuning
 !git lfs pull
 
