@@ -133,14 +133,6 @@ mv transcripts/BARGE_U-1512_transcripts transcripts/BARGE_U-1512_transcript.txt
 If not, skip it.
 
 
-Update Hugging Face Model ID:
-
-Edit fine_tune_wav2vec2_marine.py and demo_inference.py to replace yourusername with your Hugging Face username:sed -i '' 's/yourusername/your_actual_username/' fine_tune_wav2vec2_marine.py
-sed -i '' 's/aishwaryamy/your_actual_username/' demo_inference.py
-
-
-
-
 Run Fine-Tuning:
 PYTORCH_ENABLE_MPS_FALLBACK=1 python3 fine_tune_wav2vec2_marine.py
 
@@ -212,17 +204,9 @@ Run:ls -l audio/BARGE_U*
 ls -l transcripts/BARGE_U-1512*
 
 
-Share output to confirm if BARGE_U-1512_audio.wav exists or needs recovery.
-
-
-
 Troubleshooting
 
 BARGE_U-1512: If audio/BARGE_U-1512_audio.wav is missing, skip it or locate the file. Ensure transcripts/BARGE_U-1512_transcript.txt matches.
 Memory Issues: In Colab, reduce max_length or batch size in fine_tune_wav2vec2_marine.py.
 Git Issues: Ensure large files are tracked with Git LFS:git lfs ls-files
 git lfs push --all origin main
-
-
-
-Contact the project owner for the Hugging Face username and GitHub repository details (https://github.com/yourusername/marine_asr_finetuning).
