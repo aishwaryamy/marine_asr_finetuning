@@ -1,0 +1,311 @@
+This will be the internals of the U1512 ABS spud barge.
+The port forward rig tank.
+This tank is divided into three bays by two transverse trusses.
+There's approximately four inches of water at the base of the ladderwell.
+Bay one.
+Between head log vertical one and two there is a moderate set in, approximately four inches in diameter.
+Along with approximately 10 light set ins.
+Where the head log meets the rake, between head log vertical 1 and 2, there's a moderate set up, approximately 8 inches.
+At the corner just outboard of head log vertical 1 there are four light set ins.
+Between head log vertical two and three, there is a moderate set in approximately three inches in diameter, along with two light set ins.
+Where the head log meets the rake extending from just outboard of head log vertical one to head log vertical two, there is a moderate set up.
+Between head log vertical three and four there's a moderate set in approximately four inches in diameter, as well as three light set ins.
+Just inboard of head log vertical four, there is a light set in, affecting approximately 12 inch in a straight line.
+Just outboard of head log vertical 5, and between head log vertical 5 and vertical stiffener, there are three light set ins.
+Between head log vertical 7 and the inboard bulkhead, there's a light set in approximately 10 inches in length.
+Just below side shell longitudinal 2, there's a light set in, approximately two inches in length.
+Bay two.
+Between the deck radius and side shell longitudinal one, there are two light set ins.
+Bay three.
+Just below the deck radius is a light set in approximately 12 inches in length.
+Coatings throughout the tank are in good condition with burn marks from prior weldments on deck.
+The ladderwell is in good condition.
+Port tank one.
+This tank is divided into six bays by five transverse truss.
+Approximately two inches of water at the base of the ladderwell.
+Good coatings throughout the tank with burn marks from prior weldments on deck.
+The ladderwell is in good condition.
+Bay one no discrepancies.
+Bay two.
+Bay two is where the forward port spudwell is.
+Bay two has no discrepancies.
+Bay three.
+Bay three has no discrepancies.
+Bay four.
+Bay four has no discrepancies.
+Bay five.
+Bay five has no discrepancies.
+Bay six.
+Bay six has no discrepancies.
+The tank has good coatings with burn marks from prior weldments, approximately two inches of water throughout the whole tank.
+Port tank two.
+This bay is comprised of, belay my last, this tank is comprised of six bays separated by five transverse trusses.
+There's approximately one inch of water at the base of the ladderwell.
+The ladderwell is in good condition.
+Bay one.
+Just below side shell longitudinal two, there is a moderate set in, approximately four inches in diameter.
+Bay two.
+Just below the deck radius, above side shell longitudinal 1, is a heavy set in, approximately 6 inches in diameter.
+Just above side shell longitudinal 3 is a light set in, approximately 2 inches in diameter.
+Bay 3.
+Between side shell longitudinal 2 and 3 there is a light set in, approximately 2 inches in length.
+Bay 4.
+Bay four has no discrepancies.
+Bay five.
+From the deck radius to side shell longitudinal one, there is a piece of plate that has been cropped and renewed.
+Approximately two feet in length from the deck radius to side shell longitudinal one.
+Deck longitudinal one is slightly set down.
+Bay six.
+Between side shell longitudinal 2 and 3 there is a light set in, approximately an inch in diameter.
+Between side shell longitudinal 4 and 5 there is a moderate set in, approximately six inches in diameter.
+Also between side shell longitudinals four and five, there is a light set in.
+Area affected is approximately 12 inches in length, as well as a light set in approximately four inches in length.
+And the light set in approximately one inch in diameter.
+The tank has good coatings throughout with burn marks from prior weldments on the deck.
+The only bay carrying water is bay one, approximately one inch of water.
+Port tank three, this tank consists of six bays divided by five transverse truss, less than one inch of water at the base of the ladderwell.
+Bay one, no discrepancies noted.
+Bay two, no discrepancies noted.
+Bay 3.
+Between deck longitudinal 1 and 2, there is a light set down approximately 2 inches in diameter.
+Bay 4.
+Between side shell longitudinals 3 and 4 there is a heavy set in, approximately 10 inches in diameter.
+Bay 5.
+Between bottom longitudinals 7 and 8 there's a heavy set up affecting the width between bottom longitudinal 7 and 8.
+Area affected approximately 12 inches in diameter.
+This setup also affects just outboard of bottom longitudinal 7.
+Area affected is approximately 2 feet in diameter.
+Bay six.
+Bay six carries the aftmost port spudwell.
+No discrepancies noted.
+Port tank four, this tank is made up of three bays divided by two transverse truss.
+Trace amount of water at the base of the ladderwell.
+Good coatings throughout the tank with burn marks from prior weldments on the deck.
+Bay one, no discrepancies noted.
+Bay two, there's a heavy set in at the deck radius, approximately eight inches in diameter.
+Between deck longitudinals five and six, there's a moderate set down approximately six inches in diameter.
+Bay 3.
+This is the aftmost bay on the port side.
+At the deck radius there are five light set ins.
+Between side shell longitudinal 2 and 3 there are two light set ins.
+At the corner of the barge above aft bracket number one, there are two light set ins.
+Between aft bracket one and two, there is one light set in.
+Between aft bracket two and three, there are two light set ins.
+Between deep vertical stiffener one and two, there are approximately eight light set ins to the sideshell.
+Between deep vertical stiffener two and three, just below the deck radius there's a moderate set in approximately four inches in diameter, just below the deck radius.
+Between the transverse frame one and two, there's a moderate set in approximately three inches in diameter.
+Those last two set ins I would consider light, not moderate.
+Between deep vertical stiffener four and five, there are approximately three light set ins.
+Between deep vertical stiffener five and six, there are approximately three light set ins.
+Between deep vertical stiffener six and seven, there are approximately two light set ins.
+Between deep vertical stiffener seven and eight, there's approximately three light set ins.
+Between deep vertical stiffener 8 and the inboard bulkhead there are approximately two light set ins.
+This is the centerline midbody rake tank.
+This tank is made up of three bays divided by two transverse truss.
+Between head log vertical one and the inboard bulkhead there are two light set ins.
+Between head log vertical two and three, there are three light set ins.
+Between head log vertical four and five, there is one light set in.
+Inboard of head log vertical five you have three light set ins.
+Between head log vertical five and six you have a moderate set in approximately four inches in diameter.
+Between head log vertical six and seven you have one moderate set in, approximately six inches in diameter.
+Between head log vertical seven and eight where the head log meets the rake you have one moderate set up, approximately four inches in diameter, as well as three light set ins.
+Between head headlock vertical 8 and 9, you have a moderate set in gash approximately 10 inches in length.
+Between head log vertical 10 and the starboard side bulkhead, you have one heavy set in approximately 10 inches in diameter.
+Bay 2 there are no discrepancies noted.
+Bay 3 there are no discrepancies noted.
+Bay 3 carries approximately four inches of water at the base of the ladderwell.
+The ladderwell is in good condition.
+All coatings throughout the tank are in good condition with burn marks from prior welds to the deck.
+Midbody tank number one.
+It's made up of six bays divided by five transverse truss.
+Approximately four inches of water throughout the tank.
+The ladderwell is in good condition.
+Tank has good coatings with burn marks on the deck from prior weldments.
+Bay 1 has no discrepancies.
+Bay 2.
+Bay 2 has no discrepancies.
+Bay 3.
+Bay 3 has no discrepancies.
+Bay 4.
+Bay 4 has no discrepancies.
+Bay 5.
+Bay 5 has no discrepancies.
+Bay 6.
+Bay 6 has no discrepancies.
+Midbody tank 2.
+This tank is made up of six bays divided by five transverse truss.
+This tank is dry.
+The ladderwell is in good condition.
+Coatings are in good condition with burn marks on the deck from prior weldments.
+Bay 1 has no discrepancies noted.
+Bay 2.
+Between deck longitudinals 9 and 10, there's a light set down approximately six inches.
+Bay three.
+Bay three has no discrepancies.
+Bay four.
+Bay four has no discrepancies.
+Bay five.
+Bay five has no discrepancies.
+Bay six.
+Bay six has no discrepancies.
+Mid body tank three.
+This tank is made up of six bays divided by five transverse truss.
+There's approximately six inches of water throughout the space, throughout the tank.
+The ladderwell is in good condition.
+Coatings are in good condition with burn marks noted where prior weldments have been made to the deck.
+Bay one.
+Between deck longitudinals 5 and 6, there are two light set downs, both being 8 inches in length.
+Between deck longitudinals 6 and 7, there's a moderate set down approximately 12 inches in length.
+Between deck longitudinals 7 and 8, there is a light set down.
+Bay 2.
+Between deck longitudinals 9 and 10, there are two light set downs.
+Bay 3.
+Between deck longitudinals 9 and 10, there's a moderate set down approximately 6 by 8.
+Bay 4.
+Between deck longitudinals 7 and 8, there is a light set down approximately 12 inches in length.
+Bay 5.
+Bay 5 has no discrepancies.
+Bay 6.
+Between deck longitudinals 9 and 10, there are two light set downs.
+Midbody tank 4.
+This tank consists of three bays divided by transverse truss.
+There's approximately an inch of water throughout the tank.
+The ladderwell is in good condition.
+The coatings are in good condition.
+With burn marks from prior weldments on deck noted.
+Bay 1.
+Bay 1 shows no discrepancies.
+Bay 2.
+At the deck radius there is one light set in.
+Between deck longitudinals 4 and 5, there is one light set in.
+Bay 3.
+Bay 3 is the aftmost bay in the midbody tanks.
+Between deep vertical 1 and the port bulkhead, there are two light set ins.
+Between deep vertical 1 and 2 on the aft side shell, the transom side shell, there are two moderate set ins, one being just below the side shell transverse number one, and the second being below side shell transverse number two.
+There are numerous light set ins between side shell transverse number one and three.
+Between deep verticals two and three, between side shell transverse 1 and 2, there is a moderate set in, affecting approximately 12 inches in length.
+Between deep verticals 3 and 4 there are 3 light set ins.
+Between deep verticals 4 and 5 there is a moderate set in between the deck radius and side shell transverse number one.
+There is a moderate set in between side shell transverse one and two, approximately four inches in diameter.
+There are numerous light set ins from the deck edge to side shell transverse number two between deep verticals 4 and 5.
+Between deep verticals 5 and 6, there are five light set ins.
+Between deep verticals 6 and 7, between the deck radius and side shell transverse number 1, there's a moderate set in, affecting approximately 10 inches in diameter.
+There are numerous light set ins from side shell transverse number two to the deck radius.
+Between deep vertical seven and eight, between the deck radius and side shell transverse number one, there's a moderate set in approximately eight inches in diameter as well as multiple light set ins between the deck radius and side shell transverse number two.
+Between deep vertical eight and nine at the deck radius there's a light set in.
+There are four other light set ins between the deck radius and side shell transverse number two.
+Between deep vertical nine and ten, between the deck radius and side shell transverse number one, there is one light set in.
+Between side shell transverse number one and number two, there is one moderate set in approximately ten inches in length, as well as four other light set ins.
+Just below side shell transverse number two there is one light set in.
+The side shell transverse number one and two, between deep verticals nine and ten, are lightly set in.
+Between deep verticals ten and eleven, there are numerous light set ins from the deck radius to side shell transverse three.
+Between deep vertical eleven and the starboard bulkhead, there is one moderate set in approximately eight inches in diameter.
+Starboard forward rake.
+This tank consists of three bays divided by two transverse truss.
+There's approximately three inches of water at the base of the ladderwell, as well as light scale to where the rake meets the bottom.
+Bay one, between the deck radius and side shell longitudinal one, there is one light set in.
+Between rake bracket 6 and 7, there is one moderate set up approximately 8 inches in length.
+The last bay noted is bay 3 of the starboard forward rake tank, not bay 1.
+Starting in bay 1, there are three light set ins below sideshell longitudinal 2 at the the chine.
+Between head log vertical 1 and 2 there is one light set in.
+Between head log vertical 3 and 4 there are two light set ins.
+In board of head log vertical 5 there are two light set ins.
+Between head log vertical 5 and 6 there are three light set ins.
+Between head log vertical 6 and 7 there is one moderate set in, approximately 10 inches in length, as as well as two light set ins.
+Between head log vertical eight and the inboard bulkhead, there are four light set ins.
+Between rake longitudinal eight and the inboard bulkhead, there is one light set up to the rake.
+Bay two.
+Between rake longitudinal two and three, there are three light setups.
+For Bay 3, refer to the original Bay 1 for the starboard forward rake tank.
+I misspoke.
+Starboard tank number one, this tank consists of six bays divided by five transverse truss.
+The ladderwell is in good condition.
+Approximately two inches of water throughout the tank.
+Coatings are in good condition with burn marks noted from prior weldments.
+Bay one.
+There is one moderate set in at the deck radius just outboard of the ladderwell, approximately eight inches in diameter.
+Between sideshell longitudinal three and four there is one light set in.
+Between bottom longitudinal one and two, there is one light set up.
+Between bottom longitudinal three and four there is one light setup.
+Between deck longitudinals four and five there is one light set down.
+Bay two.
+Bay two houses the forward most starboard spudwell.
+Between between side shell longitudinal two and three there is one light set in.
+Bay three.
+At the deck radius there is one light set in.
+Between side shell longitudinals 2 and 3, there are four light set ins.
+Bay 4.
+At the deck radius there are four light set ins.
+Between the deck radius and side shell longitudinal 1, there is one moderate set in approximately 8 inches in length.
+Bay 5.
+At the deck radius, there are two light set ins.
+Between the deck radius and side shell longitudinal 1, there is one light set in.
+Between side shell longitudinal 2 and 3 there is one light set in.
+Between deck longitudinals 4 and 5 there are two light set ins.
+Between deck longitudinals 7 and 8 there is one light set in.
+Bay 6.
+At the deck radius, there are three light set ins.
+Between side shell longitudinal 3 and 4, there is one light set in.
+Starboard tank number two, this tank, has six bays divided by five transverse truss.
+There's approximately an inch of water throughout the tank.
+The ladder well's in good condition.
+The paint coatings are in good condition with burn marks noted from prior weldmans on deck.
+Bay one.
+At the deck radius there are three light set ins.
+Belay my last, four light set ins at the deck radius.
+Bottom longitudinal 2 is lightly set up.
+Bay 2, there is one light set in at the deck radius.
+Between side shell longitudinals 3 and 4, there is one light set in.
+Bay 3.
+At the deck radius there are three light set ins.
+Between side shell longitudinal 1 and 2, there is one light set in.
+Bay 4.
+Between the deck radius and side shell longitudinal 1, there is two light set ins.
+Bay 5.
+Between the deck radius and side shell longitudinal 1, there is one moderate set in, affecting approximately 8 inches in diameter.
+Bay 6.
+Between deck longitudinals 5 and 6, there is one light set down.
+Starboard tank number three.
+This tank is made up of six bays divided by five transverse truss.
+There is less than one inch of water throughout the tank.
+Ladderwell's in good condition.
+Paint coatings are in good condition with burn marks noted from prior weldments on the deck.
+Bay one.
+Between the deck radius and side shell longitudinal 1, there are two light set ups approximately 8 inches in length on one and 6 inches in diameter on the other.
+Between deck longitudinal 7 and 8, there is one light set down.
+Bay 2.
+Between deck longitudinal 6 and 7, there are two light set downs.
+Bay 3.
+Between the deck radius and side shell longitudinal 1, there is one light set down, approximately six inches in length.
+Bay four.
+At the deck radius there are three light set ins.
+Between side shell longitudinal four and five, there is one light set in.
+Bay five.
+At the deck radius there are two light set ins.
+Between deck longitudinal two and three there is one light set down.
+Bay six.
+Bay six holds the aft most starboard spudwell.
+No discrepancies noted.
+Starboard tank number four.
+This tank is composed of three bays divided by two transverse truss.
+There is less than one inch of water throughout the tank.
+The ladder is in good condition.
+Paint coatings are in good condition, with burn marks noted where prior weldments were made on the deck.
+Bay one.
+Bay one, just above aft longitudinal bracket number one, below the deck chine, there is one moderate set in approximately six inches in diameter.
+At the deck radius, there's two light set ins between side shell longitudinals two and three, there are four light set ins.
+Bay two.
+Between side shell longitudinals three and four, there are two light set ins.
+Bay three.
+Between side shell longitudinals two and three, there are two light set ins.
+Between side shell longitudinals three and four there's one light set in.
+At the turn of the barge above the aft bracket number one, there are two light set ins.
+Below aft bracket, aft outboard bracket number two, there are two light set ins.
+Between deep verticals one and two, there are four light set ins.
+Between deep verticals two and three, there are numerous light set ins.
+Between deep verticals three and four, there are four light set ins.
+Between deep verticals four and five, there are three light set ins.
+Between deep verticals five and six, there is one moderate set in just below side shell transverse number one.
+Between deep verticals six and seven, there is one heavy set in at the deck radius approximately 10 inches in diameter.
+Between deep verticals 7 and 8, there is one moderate set in, below side shell transverse number 2.
+Between deep vertical number 8 and the inboard bulkhead, there is one heavy set in, approximately 10 inches in diameter.

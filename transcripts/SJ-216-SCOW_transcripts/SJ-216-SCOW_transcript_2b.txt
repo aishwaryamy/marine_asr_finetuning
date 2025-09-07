@@ -1,0 +1,197 @@
+Beginning with starboard tank number five.
+Side shell longitudinals are heavily distorted.
+Side shell plating is moderately set in.
+Side shell brackets are heavily distorted.
+Deck radius is moderately battered.
+Deck transverse frames are moderately distorted throughout.
+Side shell vertical stiffeners are moderately distorted throughout.
+Internal shell stiffeners are also moderately distorted.
+Internal shell plating is moderately set in at both the lower and upper portions.
+Internal shell longitudinals are moderately set in.
+Upper and lower diagonal trusses are moderately set aft.
+Mid-body trusses are also moderately set aft.
+Internal brackets 2, 3, 4, and 5 are heavily set in and rusted.
+Deck longitudinals are set down.
+Deck plating is set down.
+Bay 1, Same as Bay 2, except side shell longitudinals 1 through 3 are moderately set in, and 4 through 6 are lightly set in.
+All other components are in good condition.
+Bay 3, Side shell longitudinal 1 is moderately set in.
+Longitudinals 2, 3, and 6 are lightly set in.
+Deck transverse frame is in good condition.
+Vertical stiffeners are lightly distorted.
+Lower diagonal truss is lightly set in.
+Internal shell and shell longitudinals are lightly set in.
+Deck longitudinals are lightly set in.
+Bay 4, Same as Bay 3, with the addition that the lower portions of the internal shell are heavily set in.
+Deck transverse frame is moderately distorted.
+Internal and side shell stiffeners are also moderately distorted.
+Bay 5, Same as Bay 4.
+Rust and sand debris are accumulating in all bays.
+Bay 6, Same as Bay 5, except side shell longitudinals 1 and 3 are moderately set in; the rest are lightly set in.
+Internal shell is lightly set in throughout.
+Bay 7, Same as Bay 6, with the change that the deck transverse frame is lightly set in.
+Bay 8, Aft bulkhead is heavily rusted.
+Side shell is moderately set in throughout.
+Side shell longitudinals are moderately set in.
+Interior brackets are heavily rusted away.
+Diagonal trusses are straight and do not require notation.
+Same applies to bays 6 and 7.
+Deck longitudinals are lightly set in.
+Deck plating is set in.
+Deck radius is light to moderately battered.
+Tank 4, Eight bays.
+Coatings approximately 70%.
+Water, sand, and muck accumulating at the base of every bay.
+Coatings on the lower portions are heavily rusted; upper coatings remain intact.
+Galvanized coating is beginning to fracture.
+Bay 1, Side shell longitudinals are heavily set in.
+Side shell plating is moderately set in.
+Side shell brackets are heavily set in.
+Internal shell bracket 3 and 4 are distorted.
+Internal shell is lightly set in.
+Internal shell longitudinals are lightly set in.
+Deck longitudinals are lightly set in.
+Deck radius is moderately battered.
+Bay 2, Same as Bay 1, excluding references to brackets.
+Side shell longitudinals 1 and 2 are heavily set in; the rest are moderately set in.
+Transverse deck frame is moderately distorted.
+Side shell vertical stiffeners are moderately distorted in the lower portion, and heavily set in at the upper portion.
+Internal shell vertical stiffeners are lightly distorted.
+Diagonal and mid-body trusses are lightly distorted.
+Bay 3, Side shell longitudinals 1 and 3 are heavily distorted.
+Longitudinals 2, 4, 5, and 6 are lightly distorted.
+Side shell plating between longitudinals 1 and 3 is heavily set in.
+Vertical stiffeners, transverse deck frames, diagonals, and mid-body trusses are the same as Bay 2.
+Upper diagonal is undistorted.
+Mid-section of side shell is moderately set in.
+Bay 4, Side shell plating is moderately set in at the upper portion, lightly set in at the lower portion.
+Side shell longitudinals 1 and 2 are moderately deformed.
+Longitudinals 3, 4, and 5 are lightly set in.
+Vertical stiffeners are moderately distorted in the upper portion, lightly distorted in the lower.
+Deck longitudinals and plating are lightly set in.
+Internal shell is lightly set in, with moderate set-in at the midpoint.
+Internal shell longitudinals are lightly set in.
+Bay 5, Same as Bay 4.
+Bay 6, Same as Bay 5, with the addition of a repair running from the deck edge down to side shell longitudinal 5.
+Bay 7, Same as Bay 6, with the exception that deck transverse frame is lightly distorted, and upper portions of vertical stiffeners are lightly distorted.
+Remove references to diagonals.
+Bay 8, Same as Bay 7, but remove references to deck transverse frames, vertical stiffeners, diagonals, and mid-body trusses.
+Add that side shell brackets are moderately distorted and rusted, and internal shell brackets 3 and 4 are moderately distorted.
+Tank 3, Eight bays.
+Coatings same as Tank 4.
+Water and debris at the base of each bay.
+Bay 1, Side shell is lightly set in throughout.
+Side shell longitudinals 1 through 4 are lightly set in.
+Internal shell longitudinals are lightly set in.
+Deck plating is set in.
+Internal shell midpoint is moderately set in.
+Internal brackets 2, 3, and 4 are heavily rusted and set in.
+Vertical stiffener, diagonals, and bottom plating are in good condition.
+Deck radius is set in.
+Bay 2, Same as Bay 1.
+Add that internal vertical stiffener is set in and deck transverse frame is moderately distorted.
+Bay 3, Same as Bay 2.
+Add that side shell plating between longitudinals 1 and 3 is moderately set in.
+Deck transverse frame is moderately distorted.
+Vertical stiffener is heavily set inboard.
+Between longitudinals 1 and 2, heavily set in.
+Between 2 and 3, moderately set in.
+Lower diagonals and mid-body trusses are moderately distorted.
+Bay 4, Side shell plating is moderately set in.
+Side shell longitudinals 1–5 are moderately set in.
+Deck longitudinals and plating are set in.
+Vertical stiffeners are moderately distorted.
+Transverse deck frame is moderately distorted.
+Lower diagonal truss is moderately distorted.
+Internal shell is set in throughout.
+Deck radius is lightly to moderately battered.
+Bay 5, Same as Bay 4.
+Add that internal vertical stiffener is lightly distorted.
+Bay 6, Same as Bay 5.
+Bay 7, Side shell longitudinals 1 and 2 are moderately distorted.
+3–6 are lightly distorted.
+Side shell plating is lightly set in.
+Side shell vertical stiffener is lightly distorted.
+Deck transverse frame is lightly distorted.
+Internal vertical stiffener is heavily rusted and lightly distorted.
+Internal shell plating and longitudinals are lightly set in.
+Deck longitudinals are lightly set in.
+Transverse lower diagonal truss and mid-body truss are lightly distorted.
+Bay 8, Same as Bay 7.
+Remove references to vertical stiffeners, deck transverse frame, diagonals, and mid-body trusses.
+Add that side shell brackets 1 and 2 are rusted away.
+All side shell brackets are moderately distorted and rusted.
+Internal brackets are heavily rusted and lightly distorted.
+Tank 2, Eight bays.
+Water and mud present in the base of each bay.
+Coatings similar to previous tanks.
+Bay 1, Side shell is moderately set in.
+Longitudinals 1, 2, 3 are moderately set in; 4, 5, 6 are heavily set in.
+Side shell vertical stiffeners are moderately distorted.
+Upper and lower diagonal trusses and mid-body trusses are lightly distorted.
+Deck transverse frames are lightly distorted.
+Deck radius is lightly battered.
+Side shell brackets are moderately distorted.
+Forward bulkhead is heavily warped.
+Internal brackets are lightly distorted.
+Internal shell and shell longitudinals are lightly distorted.
+Longitudinals 4 and 5 are heavily rusted.
+Internal shell midpoint is moderately set in between longitudinals 2 and 4.
+Bay 2, Same as Bay 1, excluding bracket references.
+Side shell stiffeners are moderately distorted.
+Transverse deck frame and internal stiffeners are lightly distorted.
+Deck longitudinals are lightly set in.
+Deck plating is set in.
+Bay 3, Same as Bay 2.
+Bay 4, Side shell longitudinals 1 and 2 are moderately set in; 3–6 are heavily set in.
+Side shell plating between deck radius and longitudinal 2 is moderately set in.
+Side shell vertical stiffeners are moderately distorted.
+Deck transverse frame and longitudinals are set in.
+Internal vertical stiffener is distorted.
+Diagonal trusses are distorted.
+Internal shell plating is moderately distorted.
+Bay 5, Same as Bay 3, but exclude distortion on the upper diagonal.
+Bay 6, Same as Bay 5.
+Internal vertical stiffener is lightly distorted.
+Bay 7, Longitudinals 1 and 2 are moderately distorted; 3–6 are lightly distorted.
+Side shell plating is lightly set in.
+Side shell vertical stiffener is lightly distorted.
+Deck transverse frame is lightly distorted.
+Internal vertical stiffener is heavily rusted and lightly distorted.
+Internal shell plating and longitudinals are lightly set in.
+Deck longitudinals are lightly set in.
+Lower diagonal and mid-body trusses are lightly distorted.
+Bay 8, Same as Bay 7, excluding references to vertical stiffeners, deck transverse frame, and trusses.
+Add that side shell brackets 1 and 2 are rusted away, all are moderately distorted and rusted.
+Internal brackets are heavily rusted and lightly distorted.
+Tank 1, Four bays.
+Rust present throughout the lower three feet.
+Water and muck present at the base.
+Galvanized coating is intact.
+Bay 1, Side shell longitudinals 1–3 are moderately set in.
+Side shell plating from deck radius down to longitudinal 4 is moderately to heavily set in; heaviest between longitudinals 1 and 2.
+Side shell brackets 1 and 2 are heavily set in.
+Brackets 3 and 4 are lightly rusted and set in.
+Deck longitudinals and plating are set in.
+Internal shell plating and longitudinals are set in.
+Side shell vertical stiffeners are moderately distorted.
+Transverse deck frame is moderately distorted.
+Upper and lower diagonal trusses are lightly distorted.
+Midpoint of the internal shell is moderately set in.
+Bay 2, Same as Bay 1, excluding bracket references.
+Longitudinals 2–6 are lightly distorted.
+Add midpoint note for internal shell.
+Bay 3, Same as Bay 2, but longitudinal 1 is moderately distorted.
+Bay 4, Longitudinals 1–5 are moderately distorted.
+Side shell is lightly to moderately set in.
+Side shell brackets are heavily rusted and distorted.
+Bottom transverse frames are moderately rusted.
+And internal side shell is like Bay 2.
+So let's put internal side shell from Bay 2.
+Deck longitudinal, deck plating is lightly set in.
+All right, that's it.
+Thanks for bearing with me.
+Sorry, I was mumbling a couple of times.
+But I think that'll set us up pretty good.
+Thanks.
+Bye.
